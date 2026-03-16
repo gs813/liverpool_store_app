@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # liverpool_store_app
 
 A new Flutter project.
@@ -17,4 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # liverpool_store_app
->>>>>>> 55c2cfd356cdf606bf8a2914c700b9b2e0e01d16
+ ![alt text](image.png)
+ ![alt text](image-1.png)
